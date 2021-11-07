@@ -115,6 +115,10 @@ body {
   color: var(--second-title-color);
 }
 
+.hero-button:focus,
+.hero-button:hover {
+  color: var(--accent-color);
+}
 /*--------------excellence---------------------*/
 
 .excellence {
