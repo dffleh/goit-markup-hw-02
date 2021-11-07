@@ -134,6 +134,51 @@ body {
   letter-spacing: 0.03em;
   color: var(--second-title-color);
 }
+
+/*-----------------------work---------------------------*/
+
+.work {
+  background-color: #e5e5e5;
+}
+
+.work-title {
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--second-title-color);
+}
+
+/*-----------------------team---------------------------*/
+
+.team {
+  background-color: #f5f4fa;
+}
+
+.team-text {
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--main-text-color);
+}
+
+.team-item-title {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.19;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--second-title-color);
+}
+
+.team-title {
+  font-size: 36px;
+  line-height: 1.31;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: var(--second-title-color);
+}
 /*----------------------footer--------------------------*/
 
 .footer {
@@ -151,4 +196,105 @@ body {
 .footer-link:hover,
 .footer-link:focus {
   color: var(--accent-color);
+}
+
+.footer-logo {
+  color: #2196f3;
+}
+.studio-footer {
+  color: #ffffff;
+}
+
+/*-----------------------------------portfolio----------------------------------*/
+
+/*---------------header-portfolio--------------------*/
+
+.header-portfolio {
+  background-color: #ffffff;
+}
+
+.header-link-portfolio {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.33;
+  letter-spacing: 0.02em;
+  color: var(--header-text-color);
+}
+
+.header-link-portfolio:hover,
+.header-link-portfolio:focus {
+  color: var(--accent-color);
+}
+
+.header-logo-portfolio {
+  font-family: Raleway;
+  font-weight: bold;
+  font-size: 26px;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.studio-portfolio {
+  color: var(--logo-text-color);
+}
+
+.header-list-portfolio {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: var(--second-title-color);
+}
+
+.header-mail-portfolio {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: var(--main-text-color);
+}
+
+.header-tel-portfolio {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  color: var(--main-text-color);
+}
+
+.header-tel-portfolio:hover,
+.header-tel-portfolio:focus {
+  color: var(--accent-color);
+}
+
+.header-mail-portfolio:hover,
+.header-mail-portfolio:focus {
+  color: var(--accent-color);
+}
+
+/*------------footer-portfolio-----------*/
+
+.footer-portfolio {
+  background-color: #2f303a;
+}
+
+.footer-portfolio-link {
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: var(--main-title-color);
+}
+
+.footer-portfolio-link:hover,
+.footer-portfolio-link:focus {
+  color: var(--accent-color);
+}
+
+.footer-portfolio-logo {
+  color: #2196f3;
+}
+.footer-portfolio-studio {
+  color: #ffffff;
 }
