@@ -296,6 +296,7 @@ body {
 }
 
 .filter-img-title {
+  font-weight: bold;
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
@@ -309,7 +310,6 @@ body {
 }
 
 .footer-portfolio-link {
-  font-weight: normal;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
