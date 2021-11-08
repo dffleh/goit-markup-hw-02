@@ -211,34 +211,6 @@ body {
 
 /*-----------------------------------portfolio----------------------------------*/
 
-/*---------------header-portfolio--------------------*/
-
-.header-portfolio {
-  background-color: #ffffff;
-}
-
-.header-link-portfolio {
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.33;
-  letter-spacing: 0.02em;
-  color: var(--header-text-color);
-}
-
-.header-link-portfolio:hover,
-.header-link-portfolio:focus {
-  color: var(--accent-color);
-}
-
-.header-logo-portfolio {
-  font-family: Raleway;
-  font-weight: bold;
-  font-size: 26px;
-  line-height: 1.19;
-  letter-spacing: 0.03em;
-  color: #2196f3;
-}
-
 .studio-portfolio {
   color: var(--logo-text-color);
 }
@@ -305,29 +277,4 @@ body {
   line-height: 2;
   letter-spacing: 0.06em;
   color: var(--second-title-color);
-}
-
-/*------------footer-portfolio-----------*/
-
-.footer-portfolio {
-  background-color: #2f303a;
-}
-
-.footer-portfolio-link {
-  font-size: 14px;
-  line-height: 1.71;
-  letter-spacing: 0.03em;
-  color: var(--main-title-color);
-}
-
-.footer-portfolio-link:hover,
-.footer-portfolio-link:focus {
-  color: var(--accent-color);
-}
-
-.footer-portfolio-logo {
-  color: #2196f3;
-}
-.footer-portfolio-studio {
-  color: #ffffff;
 }
