@@ -117,7 +117,8 @@ body {
 
 .hero-button:focus,
 .hero-button:hover {
-  color: var(--accent-color);
+  color: var(--main-title-color);
+  background-color: var(--accent-color);
 }
 /*--------------excellence---------------------*/
 
@@ -261,7 +262,8 @@ body {
 }
 .filter-button:hover,
 .filter-button:focus {
-  color: var(--accent-color);
+  color: var(--main-title-color);
+  background-color: var(--accent-color);
 }
 
 .filter-img-text {
